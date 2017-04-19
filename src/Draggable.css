@@ -1,0 +1,7 @@
+.draggable {
+    cursor: move;
+}
+
+.draggable--over {
+    outline: 3px dashed yellowgreen;
+}
